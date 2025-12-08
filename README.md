@@ -117,7 +117,7 @@ Experiência interativa com navegação em primeira pessoa.
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rafaela-de-souza-mariano/)
-[![Portfólio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](LINK_DO_PORTFOLIO)
+[![Portfólio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://rafaelamariano.dev)
 [![Email](https://img.shields.io/badge/Email-6EE7B7?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:rafhamariano3007@gmail.com)
 
 </div>
@@ -137,7 +137,5 @@ Experiência interativa com navegação em primeira pessoa.
 
 Sempre busco transformar interfaces em *experiências*, misturando criatividade, tecnologia e arte.
 
-* Email: *rafhamariano3007@gmail.com*
-* LinkedIn: *https://www.linkedin.com/in/rafaela-de-souza-mariano/*
-
-
+**Email:** [rafhamariano3007@gmail.com](mailto:rafhamariano3007@gmail.com)
+**LinkedIn:** [https://www.linkedin.com/in/rafaela-de-souza-mariano/](https://www.linkedin.com/in/rafaela-de-souza-mariano/)
