@@ -1,6 +1,14 @@
 # 👋 Oi, eu sou a Rafaela Mariano
 
 <div align="center">
+
+<!-- 🔥 Banner 3D Futurista -->
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=6EE7B7&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+3D+Interfaces;Experi%C3%AAncias+Imersivas+com+Three.js;WordPress+%7C+PHP+%7C+DevOps+%7C+IA+Generativa" />
 </div>
 
