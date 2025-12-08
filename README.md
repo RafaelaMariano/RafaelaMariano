@@ -76,4 +76,4 @@ Experiência interativa com navegação em primeira pessoa.
 ## 📫 Contato
 
 * Email: rafhamariano3007@gmail.com
-* LinkedIn: Rafaeladesouzamariano
+* LinkedIn: https://www.linkedin.com/in/rafaela-de-souza-mariano/
